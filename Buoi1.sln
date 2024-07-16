@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi1", "Buoi1\Buoi1.csproj", "{FAD48763-068D-4527-9690-80409FDC373B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTVN_01", "BTVN_01\BTVN_01.csproj", "{8364D471-6389-48BA-B854-320D90D3884B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD48763-068D-4527-9690-80409FDC373B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD48763-068D-4527-9690-80409FDC373B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD48763-068D-4527-9690-80409FDC373B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD48763-068D-4527-9690-80409FDC373B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8364D471-6389-48BA-B854-320D90D3884B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8364D471-6389-48BA-B854-320D90D3884B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8364D471-6389-48BA-B854-320D90D3884B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8364D471-6389-48BA-B854-320D90D3884B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3087573-FC6D-49DA-83C6-74444DA90AFA}
+	EndGlobalSection
+EndGlobal
